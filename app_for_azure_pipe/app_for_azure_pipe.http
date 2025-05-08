@@ -1,0 +1,6 @@
+@app_for_azure_pipe_HostAddress = http://localhost:5145
+
+GET {{app_for_azure_pipe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
