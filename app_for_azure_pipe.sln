@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app_for_azure_pipe", "app_for_azure_pipe\app_for_azure_pipe.csproj", "{5540BB18-80AE-4717-9C74-1BFC8450D8DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests_for_basic_controller", "Tests_for_basic_controller\Tests_for_basic_controller.csproj", "{E3ED0AD8-2DAE-4EAB-80B8-7223BC8CA51C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5540BB18-80AE-4717-9C74-1BFC8450D8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5540BB18-80AE-4717-9C74-1BFC8450D8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5540BB18-80AE-4717-9C74-1BFC8450D8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3ED0AD8-2DAE-4EAB-80B8-7223BC8CA51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3ED0AD8-2DAE-4EAB-80B8-7223BC8CA51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3ED0AD8-2DAE-4EAB-80B8-7223BC8CA51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3ED0AD8-2DAE-4EAB-80B8-7223BC8CA51C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
